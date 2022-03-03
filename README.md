@@ -1,1 +1,3 @@
-# first-repository
+# First Repository 
+
+This is my first repository :) 
